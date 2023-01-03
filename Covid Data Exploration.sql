@@ -1,6 +1,6 @@
 /*
 Covid 19 Data Exploration from 2020 - 2022
-Dataset Link   : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa05UQndBSjJJLVA0SE9RNVh2ZnliNmw5ZzFuQXxBQ3Jtc0tsR2JoeTdHSThZOTE0OFhIREZvaTFWX1Z0SmRnV1hoM0hTWlVlcmF4a252blNsaDZURk1fenlXb090bEVOTjZWa3BMMjZybHlnM0JfRDByLUhBcW9nZFB5ZXlNVWVueVVyRkZfUmxCYUVaZERqcnBQZw&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM
+
 SQL Skills used: DML, Group by, Order by, Aggregate Functions, Converting Data Types, Windows Functions,
                  Joins, CTE's, Creating Views, 
 */
